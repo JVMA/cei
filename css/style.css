@@ -1,0 +1,240 @@
+.wepay-custom-button {
+background: #029fd3 !important;
+color: rgb(255, 255, 255) !important;
+font: normal 18px Georgia, 'Times New Roman', Times, serif !important;
+padding: 0;
+border: 0px solid #029fd3 !important;
+box-shadow: inset 0 0 0 #000 !important;
+-webkit-box-shadow: inset 0 0px 0 #fff !important;
+padding: 0px 88px 0px 22px !important;
+height: 80px !important;
+line-height: 80px !important;;
+text-shadow: none !important;
+-webkit-border-radius: 4px !important;
+-moz-border-radius: 4px !important;
+border-radius: 4px !important;
+}
+
+a:hover.wepay-custom-button {
+background: #3c2e25 !important;
+}
+
+/* Sponsors on State of Emergency*/
+.sponsors-logo {
+position: relative;
+width: 150px;
+height: 150px;
+float:left;
+margin:  0 20px 30px 0;
+border: 10px solid #fff;
+outline: 1px solid #675C55;
+background-color: #fff;
+}
+/* Positioning */
+.absoluteCenter {
+ margin:auto; /* Required */
+ position:absolute; /* Required */
+ top:0;bottom:0; /* Aligns Vertically */
+}
+/* Sizing - resizes down to avoid cutting off */
+.absoluteCenter { /* Fallback Sizing */
+ max-height:100%;
+ max-width:100%;
+}
+/* End Sponsors on State of Emergency*/
+
+
+
+.toggle-gray + .toggle-gray { border-top: 1px solid rgba(103, 92, 85, 0.0666667); !important}
+.rsswidget {color: #3c2e25; !important}
+.rsswidget:hover {color: #7f7f25; !important}
+.rsswidget img {display:none;}
+.corporate-sponsor {
+background-color: #fff0a3;
+padding: 20px;
+border: solid 1px #ccc;
+margin-bottom: 20px;}
+
+
+#pagetitle h1 {
+float:left;
+padding: 2px 180px 0 0;
+}
+.board-title{
+font-size: 11px;
+color: #999;}
+a.ox_button.btn_xlarge {background-color:black; !important} 
+hr { width:100%; 
+    height:0; 
+    color:none; 
+    background:none; 
+    border:none; 
+    border-top:1px solid #d79f38; 
+    border-bottom:1px solid #fbca70;}
+
+div#navcycle{background-color:#fdbb43; !important}
+section#color_header{border-bottom:solid 1px;border-color: rgba(103, 92, 85, 0.0666667); padding-bottom:15px;}
+.home section#color_header{border-bottom:none; margin-bottom: -80px;}
+
+.page-id-1567 #pagetitle,
+.page-id-1639 #pagetitle,
+.page-id-1671 #pagetitle,
+.page-id-1676 #pagetitle,
+.page-id-1678 #pagetitle,
+.page-id-1680 #pagetitle {
+top: 10px;
+background-image:url(http://josev.co/clients/cei/wp-content/uploads/2013/03/collective-impact.png);
+}
+
+.page-id-1572 #pagetitle,
+.page-id-1735 #pagetitle,
+.page-id-1737 #pagetitle,
+.page-id-1739 #pagetitle,
+.page-id-1733 #pagetitle,
+.page-id-1731 #pagetitle,
+.page-id-1741 #pagetitle {
+top: 10px;
+background-image:url(http://josev.co/clients/cei/wp-content/uploads/2013/03/get-involved.png);
+}
+
+.page-id-1592 #pagetitle {
+top: 10px;
+background-image:url(http://josev.co/clients/cei/wp-content/uploads/2013/03/board-of-directors.png);
+}
+.page-id-1588 #pagetitle {
+top: 10px;
+background-image:url(http://josev.co/clients/cei/wp-content/uploads/2013/03/history.png);
+}
+
+.page-id-1580 #pagetitle {
+top: 10px;
+background-image:url(http://josev.co/clients/cei/wp-content/uploads/2013/03/donate.png);
+}
+
+.page-id-1561 #pagetitle {
+top: 10px;
+background-image:url(http://josev.co/clients/cei/wp-content/uploads/2013/03/about.png);
+}
+#color_header{background-color: #fdbb43;)
+}
+
+.page-id-27 #pagetitle {
+top: 10px;
+background-image:url(http://josev.co/clients/cei/wp-content/uploads/2013/03/contact.png);
+}
+
+#national_news ul{list-style-type: none; margin-left: -20px;}
+#news-home{
+height: 142px;
+background:url(http://josev.co/clients/cei/wp-content/uploads/2013/03/news.png) no-repeat center;
+padding-top: 60px;
+}
+#local_news ul{list-style-type: none; text-align:right;}
+.active{color:#a01f23}
+
+#sizetext {
+position:absolute;
+left:580px;
+top:-50px;
+font-size: 15px;
+}
+
+header {height: 160px}
+.logo {padding-top:0;top:5px;width:350px;}
+
+
+
+/////////*Start Resources sub-menu*/////////
+/*#menu-item-1574  ul {
+  width:500px;
+}
+
+#menu-item-1574   li{
+  float:left;
+  width: 50%;
+}*/
+////////*End Resources sub-menu*/////////
+
+
+.main_menu ul.sub-menu {width: 300px; }
+
+/*Start flexipages_widget*/
+.flexipages_widget{
+margin-top: -67px;
+background-color:#fdbb43;
+padding: 25px 0 25px 0;
+border-bottom-right-radius: 20px;
+border-bottom-left-radius: 20px;
+border-right:solid 1px;
+border-color:  rgba(103, 92, 85, 0.0666667)
+}
+
+span.widget_mark {display:none}
+
+.widget ul > li.current_page_item > a, .widget ul ul > li.current_page_item > a, .widget ul ul ul > li.current_page_item > a {
+color:white;
+background-color:#a01f23;
+}
+
+.flexipages_widget ul li{
+padding:0;
+margin:0;
+}
+
+.flexipages_widget a {
+display: inline-block;
+width:188px;
+margin-left:0px;
+padding: 16px 16px 16px 16px;
+}
+
+.flexipages_widget li {
+list-style: none;
+font-size:15px;
+}
+
+
+
+.flexipages_widget ul li a:hover {
+color:#fafafa;
+background-color:#a01f23;
+transition: all 0.4s ease-in;
+transition: all 0.4s ease-out;
+}
+
+.flexipages_widget ul li a:link {
+transition: all 0.4s ease-in;
+transition: all 0.4s ease-out;
+}
+
+/*.entry-content{ width:500px}*/
+
+/* hides slider navigation buttons*/
+.jc-prev, .jc-next {visibility:hidden;}
+
+.directors {
+float:left;
+background-color:#f3f3f3;
+width: 180px;
+height: 270px;
+padding: 20px;
+border: 1px solid #ccc;
+margin: 5px;
+}
+
+h4.trigger {
+font-size:16px}
+
+/* Max's layout options */
+.offer.style_1 .price strong {
+font-size: .75em;
+}
+.header .row {width:1100px;max-width:100%;}
+.mobile-menu{top:80px;margin-bottom:65px;}
+.logo.grid_3{max-width:85%;}
+#pagetitle{background-repeat:no-repeat;background-position: right bottom;padding:60px 0px 33px !important;height:50px;}
+@media screen and (max-width: 780px){
+#pagetitle{background-size:700px;padding:20px 0px 33px !important;}
+}
+.styled_mobile_nav{padding:33px 0px 60px;}
+/* End Max's layout options */
