@@ -1,0 +1,28 @@
+<div align="center">
+[one_third]
+
+<a href="http://www.peacemakersinc.us" target="_blank"><img style="border: 0px;" title="Peacemakers" alt="Peacemakers" src="http://www.peacemakersinc.us/images/pm_logo.jpg" width="175" height="175" border="0" /></a>
+&nbsp;
+
+[/one_third]
+[one_third]
+<a href="http://www.contracosta.edu/" target="_blank"><img style="background-color:white;border: 0px;width:175px;height:175px;" title="Contra Costa College" alt="Contra Costa College" src="http://wordpress.contracosta.edu/wp-content/uploads/2014/03/CCCLogoTagline_SmallBlue-OL.png" width="175" height="175" border="0" /></a>
+
+&nbsp;
+[/one_third] 
+[one_third last=last] 
+<a href="http://www.fullcirclelearning.org/" target="_blank"><img style="border: 0px;height:175px;width:175px;" title="Peacemakers" alt="Peacemakers" src="http://www.fullcirclelearning.org/images/logo.gif" width="175" height="175" border="0" /></a>
+
+&nbsp;
+[/one_third]
+ [one_third]
+<a href="http://www.isoji.net/" target="_blank"><img style="border: 0px;height:175px;width:175px;" title="Peacemakers" alt="Peacemakers" src="http://isoji.net/yahoo_site_admin/assets/images/ISOJI_Logo.46155648_logo.jpg" width="175" height="175" border="0" /></a>
+
+&nbsp;
+ [/one_third]
+ [one_third last=last]
+<a href="#" target="_blank"><img style="border: 0px;height:175px;width:175px;" title="Peacemakers" alt="Peacemakers" src="http://placehold.it/175/ffffff/000000&text=The+Motherhood+Project" width="175" height="175" border="0" /></a>
+
+&nbsp;
+[/one_third]
+</div>
